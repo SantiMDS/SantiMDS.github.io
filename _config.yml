@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Santiago Martinez
+title               : Santiago Martínez Martínez
 description         : >-
                       Data Sciencist/ Data Analist
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -29,7 +29,7 @@ author:
 # dribbble          : your_username
   email             : smartinezmartinez311@gmail.com
 #  facebook          : your_username
-  github            : SantiMDS
+ # github            : SantiMDS
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
