@@ -1,0 +1,19 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+email:
+  url   : "mailto:smartinezmartinez311@gmail.com"
+  icon  : fas fa-envelope
+  color : db4437
+
+github:
+  url   : https://github.com/SantiMDS
+  icon  : fab fa-github
+  color : 333333
+  
+linkedin:
+  url   : https://www.linkedin.com/in/santiagomartinezdatascientist/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+

@@ -1,0 +1,7 @@
+- name: Machine Learning
+  percentage: 100
+  color: info
+
+- name: Deep Learning
+  percentage: 100
+  color: success
