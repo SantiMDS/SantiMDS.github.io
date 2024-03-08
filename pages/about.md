@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Sobre mi
-permalink: /about/
+permalink: /Sobremi/
 weight: 3
 ---
 
-# **About Me**
-
-Hola!! Soy Santi :wave:,<br>
+# ** Hola!! Soy Santi :wave:,<br>**
 
 Soy un apasionado de la ciencia de datos y la aplicación de la inteligencia artificial. Con experiencia en administración y dirección de empresas, me encanta encontrar insights en los datos y aplicarlos en la resolución de problemas de negocio. 📊💡
 
@@ -18,10 +16,10 @@ Soy un profesional acostumbrado a trabajar bajo presión, con pensamiento críti
 Si crees que mi experiencia en ciencia de datos y retail puede aportar valor a tu equipo, estaré encantado de hablar contigo. Sería genial explorar posibles oportunidades de colaboración y ver cómo puedo contribuir a tus proyectos.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include Sobremi/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include Sobremi/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include Sobremi/timeline.html %}
 </div>
