@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **Hola!! Soy Santi :wave:,<br>**
+# **Hola!!:wave:,<br>**
 
-Soy un apasionado de la ciencia de datos y la aplicación de la inteligencia artificial. Con experiencia en administración y dirección de empresas, me encanta encontrar insights en los datos y aplicarlos en la resolución de problemas de negocio. 📊💡
+Soy Santi, un apasionado de la ciencia de datos y la aplicación de la inteligencia artificial. Con experiencia en administración y dirección de empresas, me encanta encontrar insights en los datos y aplicarlos en la resolución de problemas de negocio. 📊💡
 
 Durante los últimos cinco años, he trabajado en el sector del retail deportivo en la empresa más importante a nivel retail multimarca. Allí, he aplicado mis conocimientos para resolver problemas, optimizar los espacios de ventas y analizar las tendencias de ventas. He colaborado en diferentes visitas internacionales y me he encargado de la formación de mis equipos para la consecución de los objetivos empresariales. 🌍📈
 
