@@ -1,15 +1,15 @@
 - name: Habilidades interpersonales
   percentage: 100
-  color: warning
+  color: light
 
 - name: Pensamiento critico
   percentage: 100
-  color: warning
+  color: light
 
 - name: Adaptabilidad
   percentage: 100
-  color: warning
+  color: light
 
 - name: Gestión de tiempo
   percentage: 100
-  color: warning
+  color: light

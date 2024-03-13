@@ -21,7 +21,7 @@ Si crees que mi experiencia en ciencia de datos y retail puede aportar valor a t
 </div>
 <div class="row">
 {% include about/skills.html title="Soft Skills" source=site.data.soft-skills %}
-{% include about/skills.html title="" source=site.data.soft-skills1 %}
+{% include about/skills.html title=" " source=site.data.soft-skills1 %}
 </div>
 
 <div class="row">
