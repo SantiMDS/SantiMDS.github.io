@@ -1,0 +1,11 @@
+- name: Trabajo en equipo
+  percentage: 100
+  color: info
+
+- name: Pensamiento critico
+  percentage: 100
+  color: success
+
+- name: Forecasting
+  percentage: 100
+  color: danger
