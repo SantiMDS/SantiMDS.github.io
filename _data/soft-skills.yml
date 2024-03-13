@@ -10,10 +10,6 @@
   percentage: 100
   color: success
 
-- name: Adaptabilidad
-  percentage: 100
-  color: success
-
 - name: Gestión de tiempo
   percentage: 100
   color: success
