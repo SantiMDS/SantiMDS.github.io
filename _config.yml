@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Santiago Martínez Martínez
 description         : >- 
-                      Bienvenido a mi Portfolio!! Soy Santi y soy Data Sciencist/ 
-                      Data Analyst y aqui podras ver un poquito de mis trabajos!!
+                      ¡Bienvenido a mi Portfolio!! Soy Santi y soy Data Scientist/Data Analyst,
+                      aquí podrás ver un poquito de mis trabajos!!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : SantiMDS.github.io     # Change to your-username>/your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
