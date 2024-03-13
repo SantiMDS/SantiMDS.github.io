@@ -1,8 +1,12 @@
-- name: Habilidades interpersonales
+- name: Habilidades interpersonales y Comunicación eficiente
   percentage: 100
   color: success
 
-- name: Pensamiento critico
+- name: Trabajo en equipo
+  percentage: 100
+  color: success
+
+- name: Pensamiento critico y Resolución de problemas
   percentage: 100
   color: success
 
