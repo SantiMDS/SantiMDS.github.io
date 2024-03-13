@@ -1,15 +1,15 @@
-- name: Habilidades interpersonales
+- name: Comunicación eficiente
   percentage: 100
   color: warning
 
-- name: Pensamiento critico
+- name: Pensamiento crítico
   percentage: 100
   color: warning
 
-- name: Adaptabilidad
+- name: Trabajo en equipo
   percentage: 100
   color: warning
 
-- name: Gestión de tiempo
+- name: Resolución de problemas
   percentage: 100
   color: warning
