@@ -1,6 +1,6 @@
 - name: Python
   percentage: 100
-  color: danger
+  color: 
 
 - name: Sql
   percentage: 100
@@ -8,8 +8,8 @@
 
 - name: Power BI
   percentage: 100
-  color: secondary
+  color: 
 
 - name: Git
   percentage: 100
-  color: dark
+  color: 

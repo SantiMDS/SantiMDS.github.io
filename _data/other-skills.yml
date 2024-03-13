@@ -1,11 +1,15 @@
-- name: Machine Learning
+- name: ML Supervisado
   percentage: 100
   color: info
 
+- name: ML No-supervisado
+  percentage: 100
+  color: info 
+
 - name: Deep Learning
   percentage: 100
-  color: success
+  color: info
 
 - name: Forecasting
   percentage: 100
-  color: danger
+  color: info
