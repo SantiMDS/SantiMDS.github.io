@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **Hola :wave: :wave:!!,<br>**
+# **Hola!!,<br>**
 
 Soy Santi, un apasionado de la ciencia de datos y la aplicación de la inteligencia artificial. Con experiencia en administración y dirección de empresas, me encanta encontrar insights en los datos y aplicarlos en la resolución de problemas de negocio. 📊💡
 
@@ -21,7 +21,7 @@ Si crees que mi experiencia en ciencia de datos y retail puede aportar valor a t
 </div>
 <div class="row">
 {% include about/skills.html title="Soft Skills" source=site.data.soft-skills %}
-{% include about/skills.html title=" " source=site.data.soft-skills1 %}
+{% include about/skills.html title="                " source=site.data.soft-skills1 %}
 </div>
 
 <div class="row">

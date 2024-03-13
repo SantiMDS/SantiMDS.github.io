@@ -1,15 +1,15 @@
 - name: Comunicación eficiente
   percentage: 100
-  color: light
+  color: success
 
 - name: Pensamiento crítico
   percentage: 100
-  color: light
+  color: success
 
 - name: Trabajo en equipo
   percentage: 100
-  color: light
+  color: success
 
 - name: Resolución de problemas
   percentage: 100
-  color: light
+  color: success
