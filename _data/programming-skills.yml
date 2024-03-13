@@ -9,3 +9,7 @@
 - name: Power BI
   percentage: 100
   color: secondary
+
+- name: Git
+  percentage: 100
+  color: success

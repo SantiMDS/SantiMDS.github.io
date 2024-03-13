@@ -3,3 +3,9 @@
   color: info
 
 - name: Deep Learning
+  percentage: 100
+  color: success
+
+- name: Forecasting
+  percentage: 100
+  color: danger
