@@ -16,8 +16,8 @@ Soy un profesional acostumbrado a trabajar bajo presión, con pensamiento críti
 Si crees que mi experiencia en ciencia de datos y retail puede aportar valor a tu equipo, estaré encantado de hablar contigo. Sería genial explorar posibles oportunidades de colaboración y ver cómo puedo contribuir a tus proyectos.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Data Scientist Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Soft Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">

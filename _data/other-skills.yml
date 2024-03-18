@@ -1,15 +1,15 @@
-- name: ML Supervisado
+- name: Habilidades interpersonales y Comunicación eficiente
   percentage: 100
-  color: info
+  color: success
 
-- name: ML No-supervisado
+- name: Trabajo en equipo
   percentage: 100
-  color: info 
+  color: success
 
-- name: Deep Learning
+- name: Pensamiento critico y Resolución de problemas
   percentage: 100
-  color: info
+  color: success
 
-- name: Forecasting
+- name: Gestión de tiempo
   percentage: 100
-  color: info
+  color: success
